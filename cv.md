@@ -18,4 +18,14 @@ I'm 20 years old, studying biology. I think that a modern person should know a l
     ziggurat[i : (2 * n - i), i : (2 * n - i)] <- i
     }
   print(ziggurat)
-}```
+}
+```
+## Education
+* Saint Petersburg State University
+   + Biology faculty, cytology and histology specialization
+* BSU Luceum
+   + Biological profile
+## Languages
+* English - B1
+* Belarusian - native
+* Russian - native
